@@ -5,10 +5,10 @@ cp -Rf config /opt/ANDRAX/.config
 
 rm -rf /opt/ANDRAX/cachevirtual/virtualenvs/*crackmapexec*
 
-sudo cp -Rf /opt/ANDRAX/.config/ /root/.config/
-sudo cp -Rf /opt/ANDRAX/.config/ /home/andrax/.config/
+sudo cp -Rf /opt/ANDRAX/.config /root/
+sudo cp -Rf /opt/ANDRAX/.config /home/andrax/
 
-sudo chmod -R 777 /root/.config /home/andrax/.config/
+sudo chmod -R 777 /root/.config /home/andrax/
 
 sleep 01
 
