@@ -3,8 +3,8 @@
 sudo mkdir -p /root/.config
 sudo mkdir -p /home/andrax/.config
 
-sudo cp -Rf /opt/ANDRAX/.config/pypoetry /root/.config/
-sudo cp -Rf /opt/ANDRAX/.config/pypoetry /home/andrax/.config/
+sudo cp -Rf /opt/ANDRAX/.config/ /root/.config/
+sudo cp -Rf /opt/ANDRAX/.config/ /home/andrax/.config/
 
 sudo chmod -R 777 /root/.config /home/andrax/.config/
 
