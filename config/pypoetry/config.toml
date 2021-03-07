@@ -1,0 +1,6 @@
+cache-dir = "/opt/ANDRAX/cachevirtual"
+experimental.new-installer = true
+installer.parallel = true
+virtualenvs.create = true
+virtualenvs.path = "{cache-dir}/virtualenvs"
+virtualenvs.virtualenvs.path = "/opt/ANDRAX/virtualenvs"

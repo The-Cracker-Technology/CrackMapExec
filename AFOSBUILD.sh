@@ -1,7 +1,7 @@
 rm -rf /opt/ANDRAX/CrackMapExec
 cp -Rf andraxbin/* /opt/ANDRAX/bin
 
-cp -Rf .config /opt/ANDRAX/.config
+cp -Rf config /opt/ANDRAX/.config
 
 rm -rf /opt/ANDRAX/cachevirtual/virtualenvs/*crackmapexec*
 
